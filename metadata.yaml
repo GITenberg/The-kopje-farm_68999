@@ -1,0 +1,27 @@
+_repo: The-kopje-farm_68999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnston, William
+    alias: Johnston, William Andrew
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '3897'
+    url: http://www.gutenberg.org/2009/agents/3897
+description: ''
+gutenberg_issued: '2022-09-16'
+identifiers:
+  gutenberg: '68999'
+language: en
+pgterms:marc905: 20220715170755johnston
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :Collins' Cleartype Press,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The kopje farm
+url: http://www.gutenberg.org/ebooks/68999
