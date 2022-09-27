@@ -1,5 +1,8 @@
 _repo: The-kopje-farm_68999
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68999-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Johnston, William
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3897'
     url: http://www.gutenberg.org/2009/agents/3897
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68999#The-kopje-farm
 gutenberg_issued: '2022-09-16'
 identifiers:
   gutenberg: '68999'
